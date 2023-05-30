@@ -11,10 +11,10 @@ export default function() {
 
     navBtn.addEventListener("click", () => {
         if(!open) {
-            navBtn.src = "../src/img/shared/icon-close.svg";
+            navBtn.src = "./img/shared/icon-close.svg";
             open = true;
         } else {
-            navBtn.src = "../src/img/shared/icon-hamburger.svg";
+            navBtn.src = "./img/shared/icon-hamburger.svg";
             open = false;
         };
         nav.classList.toggle("navPhoneStyle");
