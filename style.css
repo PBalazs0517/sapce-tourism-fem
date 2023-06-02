@@ -134,6 +134,7 @@ select {
 body {
   min-height: 100vh;
   background-size: cover;
+  font-size: 16px;
 }
 
 .homeBG {
