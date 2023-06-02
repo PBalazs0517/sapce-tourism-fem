@@ -481,6 +481,7 @@ body.destinationBG main {
     width: 80%;
     max-width: 36rem;
     align-self: center;
+    justify-self: center;
   }
 }
 
