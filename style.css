@@ -480,6 +480,7 @@ body.destinationBG main {
     padding: var(--size-500);
     width: 80%;
     max-width: 36rem;
+    align-self: center;
   }
 }
 
